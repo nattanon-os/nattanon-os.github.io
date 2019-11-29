@@ -30,6 +30,7 @@ twitter_username: nattanon
 github_username:  nattanon
 
 # Build settings
+theme: jekyll-include-cache
 plugins:
   - jekyll-include-cache
 
